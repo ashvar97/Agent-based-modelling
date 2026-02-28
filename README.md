@@ -1,4 +1,4 @@
-# Sheep-Shepherd-Simulation
+Simulation 
 
 This project implements a multi-agent simulation using the Mesa framework to model the behavior of shepherd agents interacting with sheeps and the environment. The simulation includes collecting and moving sheep within a grid environment.
 
