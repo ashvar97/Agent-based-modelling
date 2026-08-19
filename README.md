@@ -5,16 +5,11 @@ cells) maintaining -- or failing to maintain -- their surrounding extracellular 
 comparing a healthy/physiological condition against an early-osteoarthritis (OA) inflammatory
 condition.
 
-## Background
-
-An original model, built from scratch: a Mesa grid, agents whose local interactions cause
-spontaneous clustering, and a metric-driven comparison between two conditions.
-
-The biology here is grounded in real chondrocyte/osteoarthritis literature (see
-[Model design](#model-design--literature) below) rather than invented from scratch or copied
-from an existing implementation -- there's no public "chondrocyte ABM + dataset" that this
-reimplements; the specific parameter values are illustrative, not fitted to experimental assay
-data (see [Parameters](#parameters-are-illustrative)).
+A Mesa grid, agents whose local interactions cause spontaneous clustering, and a metric-driven
+comparison between two conditions. The biology is grounded in real chondrocyte/osteoarthritis
+literature (see [Model design](#model-design--literature) below); parameter values are
+illustrative, not fitted to experimental assay data (see
+[Parameters](#parameters-are-illustrative)).
 
 ## The model
 
